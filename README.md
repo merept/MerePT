@@ -1,12 +1,14 @@
 ### MerePT
 
-<img alt="icon" src="https://s1.cdnux.com/merept/i/img/about.png" height=60 width=60></img>
+![](https://stats.mere.pt/api)
 
 Hi there 👋
 
 📫 My blog here: <a href="https://mere.pt/" target="_blank">mere.pt</a>
 
 📧 Email to me: <a href="mailto:MerePT<me@mere.pt>">me@mere.pt</a>
+
+
 
 <!--
 **merept/MerePT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
