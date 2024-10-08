@@ -6,8 +6,6 @@ Hi there 👋
 
 📫 My blog here: <a href="https://mere.pt/" target="_blank">mere.pt</a>
 
-📧 Email to me: <a href="mailto:MerePT<me@mere.pt>">me@mere.pt</a>
-
 
 
 <!--
